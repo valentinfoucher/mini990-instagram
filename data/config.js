@@ -28,7 +28,7 @@ module.exports = {
     twitter: 'https://twitter.com/valfoucher_minitransat2021',
   },
   // If applicable, your Google Analytics crawl ID.
-  googleAnalyticsId: 'UA-XXXXXXXX-X',
+  googleAnalyticsId: 'G-J9Q1P1PDY7',
   // Colours that represent your website.
   themeColor: '#000',
   backgroundColor: '#fff',
