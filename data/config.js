@@ -9,7 +9,7 @@ module.exports = {
   // URL to this website. If you bought `www.domain.com`, then it will be `www.domain.com`.
   url: 'https://mini990chorus-instagram.netlify.app/',
   // Favicon that will display on browsers.
-  logo: 'static/images/favicon.png',
+  logo: 'static/images/logo3.svg',
   // Who made this website?
   author: 'Valentin Foucher',
   // What's the website of the author?

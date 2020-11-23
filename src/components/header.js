@@ -21,11 +21,11 @@ const Header = ({ siteTitle }) => (
       },
     }}
   >
-    <StyledNavigationList $align={ALIGN.left}>
+    {/* <StyledNavigationList $align={ALIGN.left}>
       <StyledNavigationItem>
         <h2>{siteTitle}</h2>
       </StyledNavigationItem>
-    </StyledNavigationList>
+    </StyledNavigationList> */}
     <StyledNavigationList $align={ALIGN.right}>
       <StyledNavigationItem>
         <SocialLink href={config.socialLinks.instagram}>
