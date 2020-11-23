@@ -23,7 +23,7 @@ const Header = ({ siteTitle }) => (
   >
     <StyledNavigationList $align={ALIGN.left}>
       <StyledNavigationItem>
-        <Link href="/">{siteTitle}</Link>
+        <h2>{siteTitle}</h2>
       </StyledNavigationItem>
     </StyledNavigationList>
     <StyledNavigationList $align={ALIGN.right}>
@@ -33,8 +33,8 @@ const Header = ({ siteTitle }) => (
         </SocialLink>
       </StyledNavigationItem>
       <StyledNavigationItem>
-        <Link href={`mailto:${config.contact.email}`}>
-          <Button>Let's talk</Button>
+        <Link href={`https://mini990chorus.netlify.app`}>
+          <Button>Retour au site</Button>
         </Link>
       </StyledNavigationItem>
     </StyledNavigationList>
