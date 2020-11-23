@@ -19,7 +19,7 @@ const ImageGallery = () => {
     allInstaNode: { edges },
   } = useStaticQuery(graphql`
     {
-      allInstaNode(sort: { fields: timestamp, order: DESC }, limit: 12) {
+      allInstaNode(sort: { fields: timestamp, order: DESC }, limit:18) {
         edges {
           node {
             id

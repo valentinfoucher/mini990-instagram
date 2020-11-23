@@ -23,7 +23,7 @@ const Layout = ({ children }) => {
       <Block>
         <main>{children}</main>
       </Block>
-      <Footer />
+      {/* <Footer /> */}
     </>
   );
 };

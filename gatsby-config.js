@@ -39,9 +39,9 @@ module.exports = {
       resolve: `gatsby-source-instagram`,
       options: {
         
-        type: `hashtag`,
-        hashtag:'poleminilarochelle'
-        // username: config.social.instagram,
+        // type: `hashtag`,
+        //hashtag:'valfoucher_minitransat2021'
+        username: config.social.instagram,
       },
     },
     // Optional: Google Analytics Tracking
