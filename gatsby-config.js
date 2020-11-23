@@ -38,10 +38,12 @@ module.exports = {
     {
       resolve: `gatsby-source-instagram`,
       options: {
-        
+        username: `8724068839`,
+        // type: `user-profile`,
+      
         // type: `hashtag`,
         //hashtag:'valfoucher_minitransat2021'
-        username: config.social.instagram,
+        // username: config.social.instagram,
       },
     },
     // Optional: Google Analytics Tracking
