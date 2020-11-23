@@ -62,7 +62,7 @@ function SEO({ description, lang, meta, title }) {
   	]
   	}`;
 
-  const metaDescription = description || site.siteMetadata.description;
+  const metaDescription = 'Mini 990 CHORUS Instagram';
 
   return (
     <Helmet
