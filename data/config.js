@@ -1,6 +1,6 @@
 module.exports = {
   // Name of your site. Can be the name of a brand, or your personal name.
-  title: 'Mini 990 Chorus',
+  title: 'Mini 990 Chorus Instagram',
   // What's the purpose of this website? What can we expect from it?
   description:
     `Mini 990 Chorus Instagram portfolio`,
@@ -34,7 +34,7 @@ module.exports = {
   backgroundColor: '#fff',
   // No more information than City + Country due to privacy concerns.
   address: {
-    city: 'La Rochell',
+    city: 'La Rochelle',
     country: 'France',
   },
   // Basic contact details.

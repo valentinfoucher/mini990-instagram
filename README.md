@@ -126,7 +126,7 @@ module.exports = {
   // Basic contact details.
   contact: {
     // Email address to contact you.
-    email: 'timrodz@icloud.com',
+    email: 'valentinfoucher93@gmail.com',
   },
   // When was this website created?
   foundingDate: '2020',
